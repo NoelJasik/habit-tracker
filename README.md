@@ -4,19 +4,19 @@ Aplikacja Habit Tracker to narzędzie do śledzenia nawyków i celów. Umożliwi
 
 ## Założenia
 
-    Aplikacja będzie przeznaczona na urządzenia z systemem Android.
-    Będzie napisana w języku Java przy użyciu Android Studio.
-    Będzie zawierała dwa typy celów: stałe i cykliczne.
-    Cel stały to zadanie, które ciągle trwa, np. rzucenie palenia. Cel cykliczny to zadanie, które należy wykonywać regularnie, np. chodzenie na siłownię.
-    Użytkownicy będą mogli wybrać dni i godziny, w których otrzymają powiadomienia o konieczności wykonania zadania.
-    Aplikacja będzie mierzyć, jak długo użytkownik trzyma się swoich postanowień.
+-  Aplikacja będzie przeznaczona na urządzenia z systemem Android.
+-   Będzie napisana w języku Java przy użyciu Android Studio.
+-    Będzie zawierała dwa typy celów: stałe i cykliczne.
+-    Cel stały to zadanie, które ciągle trwa, np. rzucenie palenia. Cel cykliczny to zadanie, które należy wykonywać regularnie, np. chodzenie na siłownię.
+-    Użytkownicy będą mogli wybrać dni i godziny, w których otrzymają powiadomienia o konieczności wykonania zadania.
+-    Aplikacja będzie mierzyć, jak długo użytkownik trzyma się swoich postanowień.
 
 ## Lista rzeczy do zrobienia
 
-    Zaprojektowanie interfejsu użytkownika
-    Implementacja logiki aplikacji
-    Dodanie funkcji powiadomień
-    Dodanie funkcji pomiaru czasu
+-    Zaprojektowanie interfejsu użytkownika
+-    Implementacja logiki aplikacji
+-    Dodanie funkcji powiadomień
+-    Dodanie funkcji pomiaru czasu
 
 ## Podsumowanie
 
