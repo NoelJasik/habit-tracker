@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                           Toast.makeText(getApplicationContext(), "Login Successful..", Toast.LENGTH_SHORT).show();
                       } else {
                           mDialog.dismiss();
-                          Toast.makeText(getApplicationContext(), "LoginFailed", Toast.LENGTH_SHORT).show();
+                          Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_SHORT).show();
                       }
                     }
                 });
