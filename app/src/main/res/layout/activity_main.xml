@@ -77,7 +77,7 @@
                 android:gravity="center"
                 android:textColor="@android:color/white"
                 android:id="@+id/sign_up"
-                android:text="Nie masz konta? Zarejestruj sie tutaSSj."
+                android:text="Nie masz konta? Zarejestruj sie tutaj."
                 android:padding="5dp"
                 ></TextView>
 
