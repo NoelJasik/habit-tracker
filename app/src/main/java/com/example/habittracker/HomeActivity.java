@@ -8,6 +8,8 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.appcompat.widget.Toolbar;
+
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.Toast;
@@ -41,7 +43,8 @@ public class HomeActivity extends AppCompatActivity  {
             public boolean onMenuItemClick(MenuItem item) {
                 if(item.getItemId() == R.id.task)
                 {
-                    Toast.makeText(HomeActivity.this, "Task", Toast.LENGTH_SHORT).show();
+                    Intent intent = new Intent(HomeActivity.this,CreateHabitActivity.class);
+                    startActivity(intent);
                 }
                 return false;
             }
