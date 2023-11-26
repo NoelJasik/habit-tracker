@@ -82,7 +82,6 @@ public class HomeActivity extends AppCompatActivity  {
             Toast.makeText(this, "Habit Name: " + habitName + " Habit Amount: " + habitAmount, Toast.LENGTH_SHORT).show();
             Habit habit = new Habit(habitName, habitAmount);
             habitList.add(habit);
-            // Use the values of habitName and habitAmount
         }
     }
 

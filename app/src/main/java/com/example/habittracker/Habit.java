@@ -24,4 +24,5 @@ public class Habit {
     public void setHabitAmount(int habitAmount) {
         this.habitAmount = habitAmount;
     }
+
 }
