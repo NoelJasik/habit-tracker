@@ -22,7 +22,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Logowanie"
+                android:text="@string/Login"
                 android:textColor="@android:color/white"
                 android:textAppearance="?android:textAppearanceLarge"
                 android:gravity="center"
@@ -32,7 +32,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:hint="Email:"
+                android:hint="@string/email"
                 android:background="@drawable/edittext_background"
                 android:padding="15dp"
                 android:textColor="@android:color/white"
@@ -43,7 +43,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:hint="Hasło:"
+                android:hint="@string/password"
                 android:background="@drawable/edittext_background"
                 android:padding="15dp"
                 android:textColor="@android:color/white"
@@ -55,7 +55,7 @@
                android:layout_height="wrap_content"
                android:layout_margin="10dp"
                android:id="@+id/btn_login"
-               android:text="Zaloguj"
+               android:text="@string/login_btn"
                android:background="@drawable/edittext_background"
                android:textColor="@android:color/white"
                android:textAppearance="?android:textAppearanceLarge"
@@ -67,7 +67,7 @@
                 android:gravity="center"
                 android:id="@+id/forget_password"
                 android:textColor="@android:color/white"
-                android:text="Zapomniałes hasła?"
+                android:text="@string/forget_pass"
                 android:padding="5dp"
                 ></TextView>
 
@@ -77,7 +77,7 @@
                 android:gravity="center"
                 android:textColor="@android:color/white"
                 android:id="@+id/sign_up"
-                android:text="Nie masz konta? Zarejestruj sie tutaj."
+                android:text="@string/No_acc"
                 android:padding="5dp"
                 ></TextView>
 

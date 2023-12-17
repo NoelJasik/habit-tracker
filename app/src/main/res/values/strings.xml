@@ -1,6 +1,20 @@
 <resources>
     <string name="app_name">HabitTracker</string>
-
     <string name="naviagtion_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="create_habit">Create Habit</string>
+    <string name="create">Create</string>
+    <string name="completion_amount_per_day">Completion amount per day</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="Login">Sign in</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="login_btn">Log</string>
+    <string name="forget_pass">Forgot your password?</string>
+    <string name="No_acc">Haven\'t got an account? Register here!</string>
+    <string name="register">Registration</string>
+    <string name="register_btn">Register</string>
+    <string name="got_account">Got an account? Log in here!</string>
+    <string name="add_task">Add Task</string>
+    <string name="dashboard">DashBoard</string>
 </resources>

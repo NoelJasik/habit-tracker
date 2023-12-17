@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="naviagtion_drawer_open">Zamknij panel do nawigacji</string>
+    <string name="navigation_drawer_close">Otwórz panel do nawigacji</string>
+    <string name="create_habit">Utwórz Nawyk</string>
+    <string name="create">Stwórz</string>
+    <string name="completion_amount_per_day">Ilość dziennych wykonań</string>
+    <string name="habit_name">Nazwa nawyku</string>
+    <string name="Login">Logowanie</string>
+    <string name="email">Email:</string>
+    <string name="password">Hasło:</string>
+    <string name="login_btn">Zaloguj</string>
+    <string name="forget_pass">Zapomniałes hasła?</string>
+    <string name="No_acc">Nie masz konta? Zarejestruj sie tutaj.</string>
+    <string name="register">Rejestracja</string>
+    <string name="register_btn">Zarejestruj</string>
+    <string name="got_account">Masz już konto? Zaloguj sie tutaj.</string>
+    <string name="add_task">Dodaj Nawyk</string>
+    <string name="dashboard">Panel Sterowania</string>
+</resources>
